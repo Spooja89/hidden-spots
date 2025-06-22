@@ -47,6 +47,7 @@ Hidden Spots is a community-driven mobile app built with React Native that allow
 bash..
 cd backend
 npm install
+npx nodemon server.js
 # Create .env with:
 # MONGO_URI = your_mongodb_atlas_connection_string
 
